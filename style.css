@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&display=swap');
+
+body {
+	background-color: darkgrey;
+}
+
+h1 {
+	color: yellow;
+	font-family: consolas sans-serif;
+}
+
+#status {
+	color: lightgrey;
+}
